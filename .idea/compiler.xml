@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CME" />
+        <module name="common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="api-dao" target="1.5" />
+      <module name="api-rest" target="1.5" />
       <module name="CME" target="1.5" />
+      <module name="common" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
