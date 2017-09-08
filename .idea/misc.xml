@@ -5,13 +5,12 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/common/pom.xml" />
-      </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
         <option value="$PROJECT_DIR$/api-dao/pom.xml" />
         <option value="$PROJECT_DIR$/api-rest/pom.xml" />
-      </set>
+        <option value="$PROJECT_DIR$/api-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/api-service/pom.xml" />
+        <option value="$PROJECT_DIR$/api-interface/pom.xml" />
+      </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />

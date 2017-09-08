@@ -6,12 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="api-dao" />
+        <module name="api-entity" />
+        <module name="api-interface" />
+        <module name="api-rest" />
+        <module name="api-service" />
         <module name="common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api-dao" target="1.5" />
+      <module name="api-entity" target="1.5" />
+      <module name="api-interface" target="1.5" />
       <module name="api-rest" target="1.5" />
+      <module name="api-service" target="1.5" />
       <module name="CME" target="1.5" />
       <module name="common" target="1.5" />
     </bytecodeTargetLevel>

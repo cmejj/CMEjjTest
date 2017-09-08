@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CME.iml" filepath="$PROJECT_DIR$/.idea/CME.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-dao/api-dao.iml" filepath="$PROJECT_DIR$/api-dao/api-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-entity/api-entity.iml" filepath="$PROJECT_DIR$/api-entity/api-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-interface/api-interface.iml" filepath="$PROJECT_DIR$/api-interface/api-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-rest/api-rest.iml" filepath="$PROJECT_DIR$/api-rest/api-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-service/api-service.iml" filepath="$PROJECT_DIR$/api-service/api-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
     </modules>
   </component>
